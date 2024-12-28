@@ -19,7 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📃Certifications</h2>
-- </b>Certified Information Systems Auditor
+- </b>Certified Information Systems Auditor ![alt text](image-url)
 
 <h2> 🤝Connect with me:</h2>
 
