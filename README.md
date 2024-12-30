@@ -2,8 +2,6 @@
   
 <h2>👩‍💻Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/LA-cmd-prompt/Active-Directory-HomeLab.git)
  
