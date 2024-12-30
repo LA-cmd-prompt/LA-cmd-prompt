@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/LA-cmd-prompt/Active-Directory-HomeLab/edit/main/README.md)
+  - [Active Directory Bulk User Creation](https://github.com/LA-cmd-prompt/Active-Directory-HomeLab)
  
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
