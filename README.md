@@ -13,7 +13,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📃Certifications</h2>
-- </b>[Certified Information Systems Auditor](https://github.com/LA-cmd-prompt/LA-cmd-prompt/blob/main/CISA-certification-242630531.pdf)
+- </b>Certified Information Systems Auditor(https://github.com/LA-cmd-prompt/LA-cmd-prompt/blob/main/CISA-certification-242630531.pdf)
 
 <h2> 🤝Connect with me:</h2>
 
