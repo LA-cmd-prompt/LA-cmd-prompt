@@ -8,6 +8,7 @@ This repository showcases practical, hands-on projects that demonstrate how I ap
 
 My goal is to show not just knowledge of privacy laws like **PIPEDA** and **CASL**, but how I apply them through deliverables that organizations can use in real-world contexts.  
 
+
 ---
 
 ## 📂 Repository Structure
