@@ -6,7 +6,7 @@ Privacy Compliance Portfolio
 Welcome to my Privacy Compliance Portfolio. 
 This repository showcases practical, hands-on projects that demonstrate how I approach privacy compliance, data protection, and risk management under Canadian and global frameworks.  
 
-My goal is to show not just knowledge of privacy laws like **PIPEDA** and **CASL**, but how I apply them through deliverables that organizations can use in real-world contexts.  
+My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and **CASL**, but how I apply them through deliverables that organizations can use in real-world contexts.  
 
 
 ---
