@@ -15,7 +15,7 @@ My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and *
 
    ## 🔑 Foundational Projects
 
-1. [Privacy by Design](./privacy-by-design/README.md)  
+1. [Privacy by Design](/LA-cmd-prompt/LA-cmd-prompt/issues/1) 
    → A guide illustrating how I embed privacy principles into business processes and technology from the outset. Includes a guide and sample use case.
 
 2. [Data Protection Impact Assessment (DPIA)](./data-protection-impact-assessment-dpia/README.md)  
