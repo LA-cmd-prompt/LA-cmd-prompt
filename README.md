@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lola! CIPP/C, CISA <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> Data Privacy Expert || Technology Risk Analyst</a>
 
 
-Privacy Compliance Portfolio –
+Privacy Compliance Portfolio 
 
 Welcome to my Privacy Compliance Portfolio!  
 This repository showcases practical, hands-on projects that demonstrate how I approach privacy compliance, data protection, and risk management under Canadian and global frameworks.  
