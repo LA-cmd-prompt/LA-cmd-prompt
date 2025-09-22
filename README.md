@@ -1,4 +1,7 @@
-<h1>Hi, I'm Lola! <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/">IT Auditor || Technology Risk Analyst</a>
+<h1>Hi, I'm Lola! CIPP/C, CISA <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> Data Privacy Expert || Technology Risk Analyst</a>
+
+<h2>👩‍💻Privacy Projects:</h2>
+
   
 <h2>👩‍💻Cybersecurity Projects:</h2>
 
