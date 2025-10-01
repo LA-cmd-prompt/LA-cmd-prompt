@@ -104,7 +104,7 @@ I specialize in:
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
 | 🔷 [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Guide + sample use case, implementation checklist | Shows how privacy is built into design decisions |
-| 🛡️ [[DPIA Case Study](https://github.com/LA-cmd-prompt/data-protection-impact-assessment-dpia)]| DPIA template + completed example | Demonstrates structured risk analysis |
+| 🛡️ [[DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)]| DPIA template + completed example | Demonstrates structured risk analysis |
 | 🔍 [PIA Toolkit](https://github.com/LA-cmd-prompt/privacy-impact-assessment-pia) | Reusable template + filled scenario | Shows applied privacy risk assessment |
 | ⚠️ [Incident & Breach Response](https://github.com/LA-cmd-prompt/incident-management-and-breach-response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
 | 📋 [Privacy Audit Checklist](https://github.com/LA-cmd-prompt/privacy-audit-checklist) | PIPEDA + CASL audit tool (Excel + guide) | Proves compliance governance approach |
