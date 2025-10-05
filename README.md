@@ -92,10 +92,10 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 I’m a **privacy compliance professional** passionate about turning complex regulations into actionable programs that organizations can trust.  This repository showcases practical, hands-on projects that demonstrate how I approach privacy compliance, data protection, and risk management under Canadian and global frameworks.
 
 I specialize in:  
-- 📌 **Privacy by Design** — embedding privacy into workflows and systems from the start  
-- 📌 **DPIA & PIA** — structured risk assessments for data protection  
-- 📌 **Incident & Breach Response** — playbooks for compliance with Canadian frameworks (PIPEDA, CASL)  
-- 📌 **Privacy Policies & Vendor Audits** — practical tools businesses can adopt immediately  
+-  **Privacy by Design** — embedding privacy into workflows and systems from the start  
+- **DPIA & PIA** — structured risk assessments for data protection  
+- **Incident & Breach Response** — playbooks for compliance with Canadian frameworks (PIPEDA, CASL)  
+- **Privacy Policies & Vendor Audits** — practical tools businesses can adopt immediately  
 
 ---
 
@@ -103,10 +103,10 @@ I specialize in:
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
-| 🔷 [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Guide + sample use case, implementation checklist | Shows how privacy is built into design decisions |
-| 🛡️ [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
-| 🔍 [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
-| ⚠️ [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
+| [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Guide + sample use case, implementation checklist | Shows how privacy is built into design decisions |
+| [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
+| [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
+| [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
 | 📋 [Privacy Audit Checklist](https://github.com/LA-cmd-prompt/privacy-audit-checklist) | PIPEDA + CASL audit tool (Excel + guide) | Proves compliance governance approach |
 | ✉️ [CASL Marketing Examples](https://github.com/LA-cmd-prompt/casl-marketing-examples) | Opt-in & unsubscribe templates | Shows applied CASL compliance |
 | 🎓 [Training Deck](https://github.com/LA-cmd-prompt/internal-training-deck) | Staff training slides on PIPEDA + CASL | Demonstrates ability to educate & enable |
