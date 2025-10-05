@@ -107,10 +107,10 @@ I specialize in:
 | [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
 | [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
 | [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
-| 📋 [Privacy Audit Checklist](https://github.com/LA-cmd-prompt/privacy-audit-checklist) | PIPEDA + CASL audit tool (Excel + guide) | Proves compliance governance approach |
-| ✉️ [CASL Marketing Examples](https://github.com/LA-cmd-prompt/casl-marketing-examples) | Opt-in & unsubscribe templates | Shows applied CASL compliance |
-| 🎓 [Training Deck](https://github.com/LA-cmd-prompt/internal-training-deck) | Staff training slides on PIPEDA + CASL | Demonstrates ability to educate & enable |
-| 📝 [Policy Drafts](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
+| [Privacy Audit Checklist](https://github.com/LA-cmd-prompt/privacy-audit-checklist) | PIPEDA + CASL audit tool (Excel + guide) | Proves compliance governance approach |
+| [CASL Marketing Examples](https://github.com/LA-cmd-prompt/casl-marketing-examples) | Opt-in & unsubscribe templates | Shows applied CASL compliance |
+| [Training Deck](https://github.com/LA-cmd-prompt/internal-training-deck) | Staff training slides on PIPEDA + CASL | Demonstrates ability to educate & enable |
+| [Policy Drafts](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
 
 ---
 
