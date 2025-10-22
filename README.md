@@ -100,7 +100,7 @@ I specialize in:
 
 ---
 
-## 📂 Featured Privacy Projects
+## Featured Privacy Projects
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
@@ -112,6 +112,8 @@ I specialize in:
 | [CASL Marketing Examples](https://github.com/LA-cmd-prompt/casl-marketing-examples) | Opt-in & unsubscribe templates | Shows applied CASL compliance |
 | [Training Deck](https://github.com/LA-cmd-prompt/internal-training-deck) | Staff training slides on PIPEDA + CASL | Demonstrates ability to educate & enable |
 | [Policy Drafts](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
+| [Cross-border Transfer](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
+
 
 ---
 
