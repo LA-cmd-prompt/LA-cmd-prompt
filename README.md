@@ -13,18 +13,7 @@ My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and *
 
 ## 📂 Repository Structure
 
-   ## 🔑 Foundational Projects
 
-1. [Privacy by Design](./Privacy-by-Design/edit/main/README.md)
-   → A guide illustrating how I embed privacy principles into business processes and technology from the outset. Includes a guide and sample use case.
-
-2. [Data Protection Impact Assessment (DPIA)](./data-protection-impact-assessment-dpia/README.md)  
-   → A case study showing how to assess risks of a new system, aligned with GDPR and Canadian privacy best practices.  
-Assessing privacy risks before launching new products or processes.
-
-3. [Privacy Impact Assessment (PIA)](./privacy-impact-assessment-pia/README.md)  
-   → A template and example scenario demonstrating risk analysis, mitigation strategies, and compliance alignment.
----
 
 ### 📊 Compliance Tools
 4. **Privacy Audit Checklist**  
