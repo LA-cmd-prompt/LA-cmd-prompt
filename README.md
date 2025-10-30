@@ -102,7 +102,7 @@ I specialize in:
 | [Training Deck](https://github.com/LA-cmd-prompt/internal-training-deck) | Staff training slides on PIPEDA + CASL | Demonstrates ability to educate & enable |
 | [Policy Drafts](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
 | [Cross-border Transfer](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
-| [Ontario PHIPA](https://github.com/LA-cmd-prompt/policy-drafts) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
+| [Ontario PHIPA](https://github.com/LA-cmd-prompt/ONTARIO-PHIPA) | Privacy policy, retention schedule, sample DPA | Business-ready deliverables |
 
 
 
