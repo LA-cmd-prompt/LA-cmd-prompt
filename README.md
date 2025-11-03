@@ -11,38 +11,7 @@ My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and *
 
 ---
 
-## 📂 Repository Structure
-
-
-
-### 📊 Compliance Tools
-4. **Privacy Audit Checklist**  
-   An Excel-based tool for auditing compliance with **PIPEDA** and **CASL**, covering consent, safeguards, retention, and marketing rules.  
-
-5. **Consent Management Framework**  
-   A visual workflow showing how express vs implied consent can be captured, stored, and managed across digital touchpoints.  
-
----
-
-### ⚠️ Risk & Incident Response
-6. **Incident Response Plan**  
-   A breach response playbook including investigation, containment, notification requirements, and post-incident learning.  
-
----
-
-### 📢 Policies & Communication
-7. **CASL Marketing Language Examples**  
-   Examples of compliant opt-in language, email footers, and unsubscribe mechanisms under **CASL**.  
-
-8. **Internal Training Deck**  
-   A training presentation for staff on PIPEDA principles, consent, and CASL compliance.  
-
-9. **Privacy Policy Draft**  
-   A mock privacy policy tailored for a Canadian small business, aligned with PIPEDA principles.  
-
----
-
-## 🎯 Why This Portfolio Matters
+##  Why This Portfolio Matters
 Privacy compliance isn’t just about knowing the law—it’s about **operationalizing** it. Each folder in this repository demonstrates how I take frameworks and turn them into actionable deliverables, ready for use by organizations.  
 
 This portfolio reflects my commitment to **building trust, protecting data, and embedding privacy into business practices**.  
@@ -77,7 +46,7 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a **privacy compliance professional** passionate about turning complex regulations into actionable programs that organizations can trust.  This repository showcases practical, hands-on projects that demonstrate how I approach privacy compliance, data protection, and risk management under Canadian and global frameworks.
 
 I specialize in:  
@@ -126,12 +95,14 @@ I specialize in:
 
 ---
 
-## 📈 Current Goals
-- Building a strong **Canadian privacy portfolio** on GitHub  
-- Expanding knowledge of **Bill C-27** and global frameworks  
-- Pursuing **IAPP certifications (CIPP/C & CIPM)**  
+### Let's engage productively
+If you like what you see here, I can:
+- Build your Privacy Compliance Repository
+- Conduct Privacy Impact Assessments (PIA/DPIA)
+- Design your DSAR Response Workflow
+- Train your team on PIPEDA & GDPR compliance
 
----
+📬 [Email me] or connect on [LinkedIn](your-link)
 
 ## ✨ Let’s Connect
 📩 **Email:** your.email@example.com  
@@ -144,15 +115,6 @@ I specialize in:
 
 
   
-<h2>👩‍💻Cybersecurity Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/LA-cmd-prompt/Active-Directory-HomeLab.git)
- 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📃Certifications</h2>
 - </b>Certified Information Systems Auditor(https://github.com/LA-cmd-prompt/LA-cmd-prompt/blob/main/CISA-certification-242630531.pdf)
@@ -162,14 +124,4 @@ I specialize in:
 --> [linkedin]: https://linkedin.com/in/titilola-akinwumi-
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Pen Testing (Ethical Hacking)
-- 🌱 I’m currently looking for opportunities in Applied AI for Cybersecurity
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
