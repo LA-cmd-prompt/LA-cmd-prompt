@@ -19,7 +19,7 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 ---
 
 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) | yourname@example.com
+[LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
 
 <!-- Privacy Professional GitHub Profile README -->
@@ -102,11 +102,11 @@ If you like what you see here, I can:
 - Design your DSAR Response Workflow
 - Train your team on PIPEDA & GDPR compliance
 
-📬 [Email me] or connect on [LinkedIn](your-link)
+ [Email me] or connect on [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
 ## ✨ Let’s Connect
-📩 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [YOUR PROFILE LINK](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+ 
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) 
 🌐 **Portfolio Repo:** [Privacy Compliance Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
 
 ---
@@ -121,7 +121,6 @@ If you like what you see here, I can:
 
 <h2> 🤝Connect with me:</h2>
 
---> [linkedin]: https://linkedin.com/in/titilola-akinwumi-
-
+--> [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
 -->
