@@ -19,7 +19,7 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 ---
 
 📩 Let’s connect:  
-[LinkedIn](https://linkedin.com/in/YOURUSERNAME) | yourname@example.com
+[LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) | yourname@example.com
 
 
 <!-- Privacy Professional GitHub Profile README -->
