@@ -18,7 +18,7 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 
 ---
 
-📩 Let’s connect:  
+Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) | yourname@example.com
 
 
