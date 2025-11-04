@@ -104,7 +104,7 @@ If you like what you see here, I can:
 
  [Email me] or connect on [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
-## ✨ Let’s Connect
+## Let’s Connect
  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) 
 🌐 **Portfolio Repo:** [Privacy Compliance Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
@@ -116,11 +116,11 @@ If you like what you see here, I can:
 
   
 
-<h2>📃Certifications</h2>
+<h2>Certifications</h2>
 - </b>Certified Information Systems Auditor(https://github.com/LA-cmd-prompt/LA-cmd-prompt/blob/main/CISA-certification-242630531.pdf)
 
-<h2> 🤝Connect with me:</h2>
+<h2> Let's connect:</h2>
 
---> [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
+ [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
--->
+
