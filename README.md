@@ -38,7 +38,7 @@ This portfolio reflects my commitment to **building trust, protecting data, and 
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/titilola-akinwumi-/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Privacy%20Projects-green?style=flat&logo=github)](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:your.email@example.com)
 
