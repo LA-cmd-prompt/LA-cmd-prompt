@@ -79,15 +79,15 @@ I specialize in:
 
 ## 🛠 Skills & Tools
 
-### ⚙️ Frameworks & Laws
+### Frameworks & Laws
 `PIPEDA` · `CASL` · `GDPR basics` · `Privacy by Design`  
 
-### 🖇️ Privacy Platforms
+###  Privacy Platforms
 ![OneTrust](https://img.shields.io/badge/OneTrust-Privacy%20Platform-brightgreen?style=for-the-badge&logo=onetrust&logoColor=white)  
 ![Osano](https://img.shields.io/badge/Osano-Consent%20Management-blue?style=for-the-badge)  
 ![TrustArc](https://img.shields.io/badge/TrustArc-Compliance%20Automation-orange?style=for-the-badge)  
 
-### 🧰 Technical & Productivity Tools
+### Technical & Productivity Tools
 ![Excel](https://img.shields.io/badge/Excel-Data%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-Flow%20Diagrams-fc9d03?style=for-the-badge)  
@@ -106,8 +106,8 @@ If you like what you see here, I can:
 
 ## Let’s Connect
  
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) 
-🌐 **Portfolio Repo:** [Privacy Compliance Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) 
+**Portfolio Repo:** [Privacy Compliance Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
 
 ---
 
