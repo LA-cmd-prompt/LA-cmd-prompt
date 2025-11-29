@@ -62,7 +62,7 @@ I specialize in:
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
-| [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Guide + sample use case, implementation checklist | Shows how privacy is built into design decisions |
+| [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Shows how privacy is built into design decisions | Real-world business impact |
 | [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
 | [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
 | [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
