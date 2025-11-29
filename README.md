@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lola! CIPP/C, CISA <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> Data Privacy Expert || Technology Risk Analyst</a>
+<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> Data Privacy Expert || Technology Risk Analyst</a>
 
 
 Privacy Compliance Portfolio 
