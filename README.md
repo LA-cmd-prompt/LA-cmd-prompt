@@ -117,7 +117,8 @@ If you like what you see here, I can:
   
 
 <h2>Certifications</h2>
-- </b>Certified Information Systems Auditor(https://github.com/LA-cmd-prompt/LA-cmd-prompt/blob/main/CISA-certification-242630531.pdf)
+
+![Certified Information Systems Auditor](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/CISA.JPEG)
 
 <h2> Let's connect:</h2>
 
