@@ -40,7 +40,7 @@ Let’s connect:
   <img src="https://raw.githubusercontent.com/LA-cmd-prompt/LA-cmd-prompt/main/assets/privacy-banner.png" alt="Privacy Compliance Banner" width="100%">
 </p>
 
-<h1 align="center">🔐 Hi, I'm LA-cmd-prompt</h1>
+<h1 align="center"> Hi, I'm LA-cmd-prompt</h1>
 <p align="center">
   <em>Privacy Compliance • Privacy by Design • DPIA & PIA • Incident & Breach Response</em>
 </p>
