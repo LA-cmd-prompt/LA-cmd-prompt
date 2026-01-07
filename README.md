@@ -14,6 +14,17 @@ My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and *
 ##  Why This Portfolio Matters
 Privacy compliance isn’t just about knowing the law—it’s about **operationalizing** it. Each folder in this repository demonstrates how I take frameworks and turn them into actionable deliverables, ready for use by organizations.  
 
+## Private Repository - Access Available Upon Request
+   
+   This project contains proprietary code. If you're a potential employer 
+   or collaborator, please request access by:
+   
+   1. Sending me a message via [LinkedIn/Email]
+   2. Providing context (company name, role, reason for access)
+   3. I'll grant temporary read access within 24-48 hours
+   
+   **What you'll see:** [Brief description of the project]
+
 This portfolio reflects my commitment to **building trust, protecting data, and embedding privacy into business practices**.  
 
 ---
