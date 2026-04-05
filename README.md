@@ -1,25 +1,10 @@
-<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
+<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> 
 
----
-
-Welcome to my IT Audit & Privacy Compliance Portfolio. 
-This repository showcases practical, hands-on projects that highlight my experience in IT audit and control testing. 
+I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
 
 ---
 This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
 
----
-
-
-## Private Repository - Access Available Upon Request
-   
-   This project contains proprietary code. If you're a potential employer 
-   or collaborator, request access by:
-   
-   1. Sending me a message via [LinkedIn/Email]
-   2. Providing context (company name, role, reason for access)
-   3. I'll grant temporary read access within 24-48 hours
-  
 
 
 ---
