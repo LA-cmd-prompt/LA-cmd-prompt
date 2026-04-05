@@ -7,7 +7,7 @@ Welcome to my IT Audit & Privacy Compliance Portfolio.
 This repository showcases practical, hands-on projects that highlight my experience in IT audit and control testing. 
 
 ---
-This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management.. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
+This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management.Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
 
 ---
 
@@ -38,7 +38,9 @@ Let’s connect:
 
 <h1 align="center"> Hi, I'm LA-cmd-prompt</h1>
 <p align="center">
-  <em>Privacy Compliance • Privacy by Design • DPIA & PIA • Incident & Breach Response</em>
+  <em> • IT Audit & Control Testing (design & effectiveness)  • Risk Assessment & ITGCs (access, change management, data integrity)
+GRC (Governance, Risk & Compliance)  • Privacy Engineering & Compliance Integration  • Vendor Risk & Third-Party Assurance
+Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • Incident & Breach Response</em>
 </p>
 
 ---
@@ -54,9 +56,16 @@ Let’s connect:
 ---
 
 ##  About Me
-I’m a **privacy compliance professional** passionate about turning complex regulations into actionable programs that organizations can trust.  This repository showcases practical, hands-on projects that demonstrate how I approach privacy compliance, data protection, and risk management under Canadian and global frameworks.
+I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
 
-I specialize in:  
+My work sits at the intersection of:
+
+-**IT Audit & Control Testing**
+-**Risk Management & IT General Controls (ITGC)**
+-**Data Protection & Privacy Compliance**
+
+
+Other side projects I specialize in:  
 -  **Privacy by Design** — embedding privacy into workflows and systems from the start  
 - **DPIA & PIA** — structured risk assessments for data protection  
 - **Incident & Breach Response** — playbooks for compliance with Canadian frameworks (PIPEDA, CASL)  
