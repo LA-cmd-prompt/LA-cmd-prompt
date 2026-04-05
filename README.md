@@ -7,11 +7,9 @@ Welcome to my IT Audit & Privacy Compliance Portfolio.
 This repository showcases practical, hands-on projects that highlight my experience in IT audit and control testing. 
 
 ---
-My goal is to demonstrate knowledge through IT audit, governance, and risk management practices. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
+This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management.. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
 
 ---
-
-This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management.
 
 
 ## Private Repository - Access Available Upon Request
