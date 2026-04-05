@@ -1,5 +1,4 @@
-<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> IT Audit & Data Protection Expert </a>
-
+<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
 
 ---
 
@@ -57,10 +56,7 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 ---
 
-##  About Me
-I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
-
-My work sits at the intersection of:
+##  My work sits at the intersection of
 
 - **IT Audit & Control Testing**
 - **Risk Management & IT General Controls (ITGC)**
