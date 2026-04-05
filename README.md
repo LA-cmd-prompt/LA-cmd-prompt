@@ -6,8 +6,6 @@ IT Audit & Data Privacy Compliance Portfolio
 Welcome to my IT Audit & Privacy Compliance Portfolio. 
 This repository showcases practical, hands-on projects that highlight my experience in IT audit and control testing. It reflects my ability to assess IT environments, identify control gaps, and support risk management.  
 
-My goal is to show not just knowledge of privacy laws like GDPR **PIPEDA** and **CASL**, but how I apply them through deliverables that organizations can use in real-world contexts. Each folder in this repository demonstrates how I take frameworks and turn them into actionable deliverables, ready for use by organizations 
-
 My goal is to demonstrate knowledge through IT audit, governance, and risk management practices. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance in real-world environments
 
 ---
@@ -24,8 +22,7 @@ My goal is to demonstrate knowledge through IT audit, governance, and risk manag
    3. I'll grant temporary read access within 24-48 hours
   
 
-This portfolio reflects my commitment to **building trust, protecting data, and embedding privacy into business practices**.  
-
+This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management.
 ---
 
 Let’s connect:  
