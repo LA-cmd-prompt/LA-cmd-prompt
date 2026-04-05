@@ -111,7 +111,7 @@ Other side projects I specialize in:
 ## 🛠 Skills & Tools
 
 ### Frameworks & Standards
-`IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2``GDPR` `PIPEDA` `CASL` `Privacy by Design`  
+`IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2` `GDPR` `PIPEDA` `CASL` `Privacy by Design`  
 
 ###  Privacy Platforms
 ![OneTrust](https://img.shields.io/badge/OneTrust-Privacy%20Platform-brightgreen?style=for-the-badge&logo=onetrust&logoColor=white)  
@@ -126,12 +126,6 @@ Other side projects I specialize in:
 
 ---
 
-### Let's engage productively
-If you like what you see here, I can:
-- Build your Privacy Compliance Repository
-- Conduct Privacy Impact Assessments (PIA/DPIA)
-- Design your DSAR Response Workflow
-- Train your team on PIPEDA & GDPR compliance
 
  [Email me] or connect on [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
