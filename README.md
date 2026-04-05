@@ -48,8 +48,10 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/titilola-akinwumi-/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Privacy%20Projects-green?style=flat&logo=github)](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)
-[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:your.email@example.com)
+![IT Audit](https://img.shields.io/badge/IT%20Audit-Control%20Testing-blue)
+![GRC](https://img.shields.io/badge/GRC-Risk%20%26%20Compliance-green)
+![Privacy](https://img.shields.io/badge/Privacy-PIPEDA%20%7C%20GDPR-orange)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20Foundations-lightgrey)
 
 </div>
 
@@ -63,6 +65,19 @@ My work sits at the intersection of:
 - **IT Audit & Control Testing**
 - **Risk Management & IT General Controls (ITGC)**
 - **Data Protection & Privacy Compliance**
+
+
+## Featured Privacy Projects
+
+| Repo | What’s Inside | Why It Matters |
+|------|---------------|----------------|
+| [Privacy by Design](https://github.com/LA-cmd-prompt/privacy-by-design) | Shows how privacy is built into design decisions | Real-world business impact |
+| [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
+| [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
+| [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
+
+
+
 
 
 Other side projects I specialize in:  
