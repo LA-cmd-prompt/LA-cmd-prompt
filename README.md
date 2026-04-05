@@ -60,9 +60,9 @@ I’m an IT Audit and Privacy Compliance professional focused on evaluating cont
 
 My work sits at the intersection of:
 
--**IT Audit & Control Testing**
--**Risk Management & IT General Controls (ITGC)**
--**Data Protection & Privacy Compliance**
+- **IT Audit & Control Testing**
+- **Risk Management & IT General Controls (ITGC)**
+- **Data Protection & Privacy Compliance**
 
 
 Other side projects I specialize in:  
