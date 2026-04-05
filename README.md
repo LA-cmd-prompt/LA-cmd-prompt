@@ -86,8 +86,8 @@ I specialize in:
 
 ## 🛠 Skills & Tools
 
-### Frameworks & Laws
-`PIPEDA` · `CASL` · `GDPR basics` · `Privacy by Design`  
+### Frameworks & Standards
+`IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2``GDPR` `PIPEDA` `CASL` `Privacy by Design`  
 
 ###  Privacy Platforms
 ![OneTrust](https://img.shields.io/badge/OneTrust-Privacy%20Platform-brightgreen?style=for-the-badge&logo=onetrust&logoColor=white)  
