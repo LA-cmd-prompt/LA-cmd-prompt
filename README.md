@@ -61,15 +61,15 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 
 
+
+
+---
 Other side projects I specialize in:  
 -  **Privacy by Design** — embedding privacy into workflows and systems from the start  
 - **DPIA & PIA** — structured risk assessments for data protection  
 - **Incident & Breach Response** — playbooks for compliance with Canadian frameworks (PIPEDA, CASL)  
 - **Privacy Policies & Vendor Audits** — practical tools businesses can adopt immediately
 - **DSAR Automation** - eliminates manual process for data subject access rights ( user requests to access, correct, or delete their personal data).
-
----
-
 ## Featured Privacy Projects
 
 | Repo | What’s Inside | Why It Matters |
