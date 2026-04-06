@@ -60,8 +60,17 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 
 
+## 🛠 Skills & Tools
+
+### Frameworks & Standards
+`IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2` `GDPR` `PIPEDA` `CASL` `Privacy by Design`  
 
 
+### Technical & Productivity Tools
+![Excel](https://img.shields.io/badge/Excel-Data%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
+![Lucidchart](https://img.shields.io/badge/Lucidchart-Flow%20Diagrams-fc9d03?style=for-the-badge)  
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Training%20Decks-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 
 ---
 Other side projects I specialize in:  
@@ -89,21 +98,12 @@ Other side projects I specialize in:
 
 ---
 
-## 🛠 Skills & Tools
-
-### Frameworks & Standards
-`IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2` `GDPR` `PIPEDA` `CASL` `Privacy by Design`  
-
 ###  Privacy Platforms
 ![OneTrust](https://img.shields.io/badge/OneTrust-Privacy%20Platform-brightgreen?style=for-the-badge&logo=onetrust&logoColor=white)  
 ![Osano](https://img.shields.io/badge/Osano-Consent%20Management-blue?style=for-the-badge)  
 ![TrustArc](https://img.shields.io/badge/TrustArc-Compliance%20Automation-orange?style=for-the-badge)  
 
-### Technical & Productivity Tools
-![Excel](https://img.shields.io/badge/Excel-Data%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
-![Lucidchart](https://img.shields.io/badge/Lucidchart-Flow%20Diagrams-fc9d03?style=for-the-badge)  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Training%20Decks-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
+ 
 
 ---
 
