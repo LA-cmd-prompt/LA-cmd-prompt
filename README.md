@@ -48,7 +48,7 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 - **Data Protection & Privacy Compliance**
 
 
-## Featured Privacy Projects
+## Featured IT Audit Projects
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
