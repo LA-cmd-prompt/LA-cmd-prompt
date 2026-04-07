@@ -70,7 +70,7 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 ![Excel](https://img.shields.io/badge/Excel-Control%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Confluence](https://img.shields.io/badge/Confluence-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
 ![JIRA](https://img.shields.io/badge/JIRA-Issue%20Tracking-fc9d03?style=for-the-badge)  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Audit%20Report-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Audit%20Report%20Presentation-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 
 ---
 Other side projects I specialize in:  
