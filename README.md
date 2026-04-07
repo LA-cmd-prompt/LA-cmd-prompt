@@ -17,7 +17,7 @@ Let’s connect:
 
 <!-- 👇 Add a banner image here (upload to repo, then replace the link below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/LA-cmd-prompt/main/assets/privacy-banner.png" alt="Privacy Compliance Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/LA-cmd-prompt/main/assets/privacy-banner.png" alt="" width="100%">
 </p>
 
 <h1 align="center"> Hi, I'm LA-cmd-prompt</h1>
@@ -60,7 +60,7 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 ### Frameworks & Standards
 `IT General Controls (ITGC)` `NIST CSF` `ISO/IEC 27001` `SOC 2` `GDPR` `PIPEDA` `CASL` `Privacy by Design`  
