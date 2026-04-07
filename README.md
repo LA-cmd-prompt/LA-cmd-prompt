@@ -113,11 +113,10 @@ Other side projects I specialize in:
 ## Let’s Connect
  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/) 
-**Portfolio Repo:** [Privacy Compliance Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
+**Portfolio Repo:** [Portfolio](https://github.com/LA-cmd-prompt/privacy-compliance-portfolio)  
 
 ---
 
-<p align="center">⚡ Building trust through privacy — one project at a time ⚡</p>
 
 
   
