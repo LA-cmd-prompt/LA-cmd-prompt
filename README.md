@@ -67,10 +67,10 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 
 ### Technical & Productivity Tools
-![Excel](https://img.shields.io/badge/Excel-Data%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
-![Lucidchart](https://img.shields.io/badge/Lucidchart-Flow%20Diagrams-fc9d03?style=for-the-badge)  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Training%20Decks-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-Control%20Tracking-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-black?style=for-the-badge&logo=markdown&logoColor=white)  
+![JIRA](https://img.shields.io/badge/JIRA-Issue%20Tracking-fc9d03?style=for-the-badge)  
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Audit%20Report-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 
 ---
 Other side projects I specialize in:  
