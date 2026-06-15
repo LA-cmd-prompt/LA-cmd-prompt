@@ -3,7 +3,7 @@
 I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
 
 ---
-This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management. Each project in this repository illustrates how I convert control frameworks such as **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
+This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management. Each project in this repository illustrates how I convert control frameworks such as **SOC1&2** **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
 
 
 
@@ -53,7 +53,7 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
 | [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
-| [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
+| [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
 | [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
 | [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
 
