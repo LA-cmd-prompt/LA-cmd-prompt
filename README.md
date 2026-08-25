@@ -1,13 +1,28 @@
 <h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> 
 
-I’m an IT Audit and Privacy Compliance professional focused on evaluating control effectiveness, identifying technology risks, and translating complex regulatory requirements into practical, audit-ready deliverables.
+I spent my career auditing systems. Turns out that made me really curious about how they're built in the first place  so here I am, learning full-stack + AI, one very defendable commit at a time.
 
 ---
-This portfolio reflects my commitment to IT audit excellence, control effectiveness, and risk management. Each project in this repository illustrates how I convert control frameworks such as **SOC1&2** **NIST**, **ISO 27001** and standards into practical, organization-ready deliverables that support risk mitigation, control effectiveness, and compliance.
+This repo is where I turn "I'm learning full-stack" into things you can actually run. Java/Spring Boot, PostgreSQL, JavaScript, AI integration into something real: a working API, a functioning UI, a decision I can defend. 
 
-
+ ---
+</h1> <p align="center"> <b>Building toward full-stack development, AI-enabled.</b><br/> Coming from IT Audit & Privacy Compliance (CISA, CIPP/C) — now writing the code behind the systems I used to evaluate. </p> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
+##  My work sits at the intersection of
+
+- **IT Audit & Control Testing**
+- **Risk Management & IT General Controls (ITGC)**
+- **Data Protection & Privacy Compliance**
+
+## Featured IT Audit Projects
+
+| Repo | What’s Inside | Why It Matters |
+|------|---------------|----------------|
+| [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
+| [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
+| [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
+| [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
 
 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
@@ -41,11 +56,6 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 ---
 
-##  My work sits at the intersection of
-
-- **IT Audit & Control Testing**
-- **Risk Management & IT General Controls (ITGC)**
-- **Data Protection & Privacy Compliance**
 
 
 ## Featured IT Audit Projects
