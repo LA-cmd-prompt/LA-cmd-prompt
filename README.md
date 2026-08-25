@@ -1,12 +1,10 @@
-<h1>Hi, I'm Lola! CISA, CIPP/C <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> 
-
-I spent my career auditing systems. Turns out that made me really curious about how they're built in the first place  so here I am, learning full-stack + AI, one very defendable commit at a time.
+<h1>Hi, I'm Lola!  learning full-stack + AI, one day at a time <br/><a href="https://github.com/LA-cmd-prompt"></a> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> 
 
 ---
-This repo is where I turn "I'm learning full-stack" into things you can actually run. Java/Spring Boot, PostgreSQL, JavaScript, AI integration into something real: a working API, a functioning UI, a decision I can defend. 
+This repo is where I turn "I'm learning full-stack" into things you can actually run. Java/Spring Boot, PostgreSQL, JavaScript, AI integration into something real: a working API, a functioning UI.
 
  ---
-</h1> <p align="center"> <b>Building toward full-stack development, AI-enabled.</b><br/> Coming from IT Audit & Privacy Compliance (CISA, CIPP/C) — now writing the code behind the systems I used to evaluate. </p> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
+</h1> <p align="center"> <b>Building toward full-stack development, AI-enabled.</b><br/> now writing the code behind the systems I used to evaluate. </p> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/titilola-akinwumi-/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 ##  My work sits at the intersection of
