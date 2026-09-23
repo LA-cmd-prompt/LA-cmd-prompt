@@ -10,8 +10,37 @@ This repo is where I turn "I'm learning full-stack" into things you can actually
 ##  My work sits at the intersection of
 
 - **IT Audit & Control Testing**
+- **Governance, Risk & Compliance (GRC)**
 - **Risk Management & IT General Controls (ITGC)**
 - **Data Protection & Privacy Compliance**
+- **AI Automation & Scripting** — building tools that make audit and compliance work faster
+- **Cloud Security** — AWS, IAM, encryption, and infrastructure control validation
+
+  ---
+
+## 🛠️ What I'm Building in My Spare Time
+
+I believe GRC shouldn't be manual forever. So I'm teaching myself to automate the boring parts:
+
+- 🤖 **AI-powered audit assistants** — using LLMs to draft control narratives, summarize evidence, and flag anomalies in log data
+- 🐍 **Python scripts** for audit sampling, log analysis, and compliance report generation (see `/scripts`)
+- 🔗 **API integrations** — pulling data from AWS, Okta, and GitHub to automate evidence collection instead of screenshotting everything manually
+- 📊 **Dashboards** for tracking control status, risk registers, and audit readiness in real time
+
+---
+
+## 💻 Currently Learning
+
+`Python` · `Bash scripting` · `AWS (IAM, CloudTrail, Lambda)` · `Prompt engineering for compliance workflows` · `REST APIs` · `SQL for audit data analysis`
+
+---
+
+## 🎯 Why This Combination?
+
+Auditors who can code will always out-work auditors who can't.
+
+GRC isn't just policy and spreadsheets — it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
+
 
 ## Featured IT Audit Projects
 
