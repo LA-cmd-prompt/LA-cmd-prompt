@@ -11,7 +11,7 @@ This repo is where I turn "I'm learning full-stack" into things you can actually
 
 - **IT Audit & Control Testing**
 - **Governance, Risk & Compliance (GRC)**
-- **Risk Management & IT General Controls (ITGC)**
+- **Risk Management, IT Application & General Controls (ITAC & ITGC)**
 - **Data Protection & Privacy Compliance**
 - **AI Automation & Scripting** — building tools that make audit and compliance work faster
 - **Cloud Security** — AWS, IAM, encryption, and infrastructure control validation
@@ -20,7 +20,7 @@ This repo is where I turn "I'm learning full-stack" into things you can actually
 
 ## 🛠️ What I'm Building in My Spare Time
 
-I believe GRC shouldn't be manual forever. So I'm teaching myself to automate the boring parts:
+ I'm teaching myself to automate the time suckers:
 
 - 🤖 **AI-powered audit assistants** — using LLMs to draft control narratives, summarize evidence, and flag anomalies in log data
 - 🐍 **Python scripts** for audit sampling, log analysis, and compliance report generation (see `/scripts`)
@@ -37,9 +37,9 @@ I believe GRC shouldn't be manual forever. So I'm teaching myself to automate th
 
 ## 🎯 Why This Combination?
 
-Auditors who can code will always out-work auditors who can't.
+Auditors who can code will always improve compliance to ensure business impact
 
-GRC isn't just policy and spreadsheets — it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
+IT Audit isn't just policy and spreadsheets — it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
 
 
 ## Featured IT Audit Projects
