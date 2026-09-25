@@ -40,22 +40,6 @@ This repo is where I turn "I'm learning full-stack" into things you can actually
 Auditors who can code will always improve compliance to ensure business impact
 
 IT Audit isn't just policy and spreadsheets; it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
-
-
-## Featured IT Audit Projects
-
-| Repo | What’s Inside | Why It Matters |
-|------|---------------|----------------|
-| [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)|  Shows how automation strengthens access control testing | Real-world audit time and risk reduction  |
-| [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
-| [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
-| [NIST CSF 2.0 Maturity Assessment](https://github.com/LA-cmd-prompt/nist-csf-maturity-assessment) | Turns a subjective maturity workshop into a repeatable, scored assessment | Standardized risk scoring for leadership reporting |
-
-
-Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
-
-
 <!-- Privacy Professional GitHub Profile README -->
 
 <!-- 👇 Add a banner image here (upload to repo, then replace the link below) -->
@@ -84,19 +68,18 @@ Incident & Breach Response Readiness • Privacy by Design • DPIA & PIA • In
 
 ---
 
-
-
 ## Featured IT Audit Projects
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
+| [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)|  Shows how automation strengthens access control testing | Real-world audit time and risk reduction  |
 | [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
 | [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
-| [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
-| [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
+| [NIST CSF 2.0 Maturity Assessment](https://github.com/LA-cmd-prompt/nist-csf-maturity-assessment) | Turns a subjective maturity workshop into a repeatable, scored assessment | Standardized risk scoring for leadership reporting |
 
 
-
+Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
 
 ## Skills & Tools
 
@@ -117,7 +100,7 @@ Other side projects I specialize in:
 - **Incident & Breach Response** — playbooks for compliance with Canadian frameworks (PIPEDA, CASL)  
 - **Privacy Policies & Vendor Audits** — practical tools businesses can adopt immediately
 - **DSAR Automation** - eliminates manual process for data subject access rights ( user requests to access, correct, or delete their personal data).
-## Featured Privacy Projects
+## Featured Data Privacy Projects
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
