@@ -49,8 +49,7 @@ IT Audit isn't just policy and spreadsheets; it's risk registers, control framew
 | [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)|  Shows how automation strengthens access control testing | Real-world audit time and risk reduction  |
 | [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
 | [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
-| [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
-| [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
+| [NIST CSF 2.0 Maturity Assessment](https://github.com/LA-cmd-prompt/nist-csf-maturity-assessment) | Turns a subjective maturity workshop into a repeatable, scored assessment | Standardized risk scoring for leadership reporting |
 
 
 Let’s connect:  
