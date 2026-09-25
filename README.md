@@ -46,10 +46,12 @@ IT Audit isn't just policy and spreadsheets — it's risk registers, control fra
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
+| [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)| Shows how privacy is built into design decisions | Real-world business impact |
 | [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
 | [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
 | [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
 | [Incident & Breach Response](https://github.com/LA-cmd-prompt/Incident-Breach-Response) | Response playbook, 72-hour reporting flow | Operational readiness under PIPEDA |
+
 
 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
