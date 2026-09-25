@@ -39,14 +39,14 @@ This repo is where I turn "I'm learning full-stack" into things you can actually
 
 Auditors who can code will always improve compliance to ensure business impact
 
-IT Audit isn't just policy and spreadsheets — it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
+IT Audit isn't just policy and spreadsheets; it's risk registers, control frameworks, and audit evidence that need to scale. If I can write a script that pulls 90 days of access logs, flags anomalies, and drafts the finding, that's hours saved on every engagement. That's the direction I'm building toward: **GRC + IT audit + automation + AI**, not just checklists and manual tracking.
 
 
 ## Featured IT Audit Projects
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
-| [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)| Shows how privacy is built into design decisions | Real-world business impact |
+| [Cutting an 8-hour manual ITGC control test to 12 minutes using Python](https://github.com/LA-cmd-prompt/Access-Review-Automation)|  Shows how automation strengthens access control testing | Real-world audit time and risk reduction  |
 | [IT Audit_SaaS company](https://github.com/LA-cmd-prompt/IT-Audit-of-a-SaaS-Company-)| Shows how privacy is built into design decisions | Real-world business impact |
 | [Risk Register](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| Risk Register + Risk scoring | Demonstrates structured risk analysis |
 | [DSAR](https://github.com/LA-cmd-prompt/DSAR)| Reusable template + filled scenario | Shows rights of data subjects|
