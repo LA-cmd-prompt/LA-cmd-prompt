@@ -129,7 +129,7 @@ Other side projects I specialize in:
 
 | Repo | What’s Inside | Why It Matters |
 |------|---------------|----------------|
-| [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/privacy-by-design) | Shows how privacy is built into design decisions | Real-world business impact |
+| [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/Integrated-Workplace-Real-Estate-Management-System-IWMS-) | Shows how privacy is built into design decisions | Real-world business impact |
 | [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
 
 ### BA Productivity Tools
