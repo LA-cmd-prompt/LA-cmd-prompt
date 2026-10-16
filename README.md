@@ -124,9 +124,36 @@ Other side projects I specialize in:
 ![Osano](https://img.shields.io/badge/Osano-Consent%20Management-blue?style=for-the-badge)  
 ![TrustArc](https://img.shields.io/badge/TrustArc-Compliance%20Automation-orange?style=for-the-badge)  
 
- 
+---
+## Featured BA Projects
+
+| Repo | What’s Inside | Why It Matters |
+|------|---------------|----------------|
+| [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/privacy-by-design) | Shows how privacy is built into design decisions | Real-world business impact |
+| [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
+
+### BA Productivity Tools
+![Jira](https://img.shields.io/badge/Jira-Requirements%20%26%20Agile-blue?style=for-the-badge&logo=jira&logoColor=white)  
+![Confluence](https://img.shields.io/badge/Confluence-Documentation%20%26%20Collaboration-0052CC?style=for-the-badge&logo=confluence&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-Kanban%20%26%20Workflows-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
+![Miro](https://img.shields.io/badge/Miro-Whiteboarding%20%26%20Workshops-050038?style=for-the-badge&logo=miro&logoColor=white)  
+![Lucidchart](https://img.shields.io/badge/Lucidchart-Process%20Mapping%20%26%20Diagrams-FF6B35?style=for-the-badge&logo=lucid&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards%20%26%20Reporting-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Balsamiq](https://img.shields.io/badge/Balsamiq-Wireframing%20%26%20Prototyping-666666?style=for-the-badge)  
+![Visio](https://img.shields.io/badge/Visio-Process%20%26%20UML%20Diagrams-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)  
+![SharePoint](https://img.shields.io/badge/SharePoint-Document%20Management%20%26%20Collaboration-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
 ---
+## BA Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-00C853?style=for-the-badge)  
+![Waterfall](https://img.shields.io/badge/Waterfall-Traditional%20SDLC-607D8B?style=for-the-badge)  
+![UML](https://img.shields.io/badge/UML-Use%20Case%20%26%20Class%20Diagrams-2196F3?style=for-the-badge)  
+![BPMN](https://img.shields.io/badge/BPMN-Process%20Mapping-FF9800?style=for-the-badge)  
+![ERD](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagrams-9C27B0?style=for-the-badge)  
+![MoSCoW](https://img.shields.io/badge/MoSCoW-Prioritization-795548?style=for-the-badge)  
+![SDLC](https://img.shields.io/badge/SDLC-Full%20Lifecycle-3F51B5?style=for-the-badge)  
+![Requirements Traceability](https://img.shields.io/badge/Traceability-Matrix%20%26%20RTM-009688?style=for-the-badge)
 
 
  [Email me] or connect on [LinkedIn](https://www.linkedin.com/in/titilola-akinwumi-/)
