@@ -127,7 +127,7 @@ Other side projects I specialize in:
 ---
 ## Featured BA Projects
 
-| Repo | Project Description | Benefits for Dev. |
+| Repo | Project Description | Benefits for Stakeholers |
 |------|---------------|----------------|
 | [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/Integrated-Workplace-Real-Estate-Management-System-IWMS-) | A tech solution for property/tenant mgt and facility ops | Technically realistic and implementable from day one|
 
