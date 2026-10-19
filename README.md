@@ -127,10 +127,10 @@ Other side projects I specialize in:
 ---
 ## Featured BA Projects
 
-| Repo | What’s Inside | Why It Matters |
+| Repo | Project Description | Benefits for Dev. |
 |------|---------------|----------------|
-| [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/Integrated-Workplace-Real-Estate-Management-System-IWMS-) | Shows how privacy is built into design decisions | Real-world business impact |
-| [DPIA Case Study](https://github.com/LA-cmd-prompt/DPIA-Case-Study)| DPIA template + completed example | Demonstrates structured risk analysis |
+| [Integrated Workplace & Real Estate Management System (IWMS)](https://github.com/LA-cmd-prompt/Integrated-Workplace-Real-Estate-Management-System-IWMS-) | A tech solution for property/tenant mgt and facility ops | Technically realistic and implementable from day one|
+
 
 ### BA Productivity Tools
 ![Jira](https://img.shields.io/badge/Jira-Requirements%20%26%20Agile-blue?style=for-the-badge&logo=jira&logoColor=white)  
